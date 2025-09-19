@@ -1,0 +1,74 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml</file>
+  <line>5</line>
+  <module>QueHacemos</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class '{applicationName}'</description>
+  <highlighted_element>{applicationName}</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml</file>
+  <line>9</line>
+  <module>QueHacemos</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'MainActivity'</description>
+  <highlighted_element>MainActivity</highlighted_element>
+  <language>XML</language>
+  <offset>27</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml</file>
+  <line>7</line>
+  <module>QueHacemos</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml</file>
+  <line>16</line>
+  <module>QueHacemos</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml</file>
+  <line>7</line>
+  <module>QueHacemos</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml</file>
+  <line>16</line>
+  <module>QueHacemos</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+</problems>

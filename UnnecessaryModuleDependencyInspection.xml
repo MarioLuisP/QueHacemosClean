@@ -1,0 +1,26 @@
+<problems>
+<problem>
+  <file>QueHacemos.app.unitTest</file>
+  <module>QueHacemos.app.unitTest</module>
+  <entry_point TYPE="module" FQNAME="QueHacemos.app.unitTest" />
+  <problem_class id="UnnecessaryModuleDependencyInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary module dependency</problem_class>
+  <hints>
+    <hint value="QueHacemos.app.main" />
+  </hints>
+  <description>Module 'QueHacemos.app.unitTest' sources do not depend on module 'QueHacemos.app.main' sources</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>QueHacemos.app.androidTest</file>
+  <module>QueHacemos.app.androidTest</module>
+  <entry_point TYPE="module" FQNAME="QueHacemos.app.androidTest" />
+  <problem_class id="UnnecessaryModuleDependencyInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary module dependency</problem_class>
+  <hints>
+    <hint value="QueHacemos.app.main" />
+  </hints>
+  <description>Module 'QueHacemos.app.androidTest' sources do not depend on module 'QueHacemos.app.main' sources</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>
